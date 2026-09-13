@@ -1,12 +1,13 @@
 # Hi, I'm Ravi 👋
 
-AI Agent tooling and full-stack developer. Focused on **Agent workflow orchestration, trusted delivery, and Chinese-first product experiences** — from a one-line request to a verified, accepted deliverable.
+AI Agent tooling and full-stack developer. Focused on **Agent workflow orchestration**.
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**AutoFlow.skill**](https://github.com/qiuy-collab/AutoFlow.skill) | General task-engine Skill | Python · Agent Skill |
+| [**weone**](https://github.com/qiuy-collab/weone) | WeChat companion agent | Go |
 | [**imageplayground**](https://github.com/qiuy-collab/imageplayground) | GPT / Gemini image generation & editing playground | React · TypeScript |
 
 ## 🧰 Tech Stack
