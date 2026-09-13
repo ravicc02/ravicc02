@@ -2,11 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=4338CA&center=true&vCenter=true&width=650&height=60&lines=AI+Agent+workflow+orchestration;Full-stack+developer;From+one-line+request+to+verified+delivery)](https://github.com/qiuy-collab)
 
-## ⚡ GitHub Stats
 
-| Stats | Top Languages |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=qiuy-collab&show_icons=true&theme=radical&include_all_commits=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuy-collab&theme=radical&layout=compact) |
+## 🔥 Streak
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=qiuy-collab&theme=radical" alt="GitHub streak" /></p>
 
