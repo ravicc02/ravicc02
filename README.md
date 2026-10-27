@@ -9,12 +9,12 @@
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiuy-collab/snake/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiuy-collab/snake/output/github-contribution-grid-snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/qiuy-collab/snake/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./contribution-graphs/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./contribution-graphs/github-contribution-grid-snake-light.svg" />
+  <img alt="contribution snake" src="./contribution-graphs/github-contribution-grid-snake.svg" />
 </picture>
 
-![3D contribution](https://raw.githubusercontent.com/qiuy-collab/snake/main/profile-3d-contrib/profile-green-animate.svg)
+![3D contribution](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🌳 What I Build
 
