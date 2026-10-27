@@ -4,7 +4,7 @@
 
 ## 🔥 Streak
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=qiuy-collab&theme=radical" alt="GitHub streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=ravicc02&theme=radical" alt="GitHub streak" /></p>
 
 ## 🐍 Contribution Graph
 
